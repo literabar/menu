@@ -85,6 +85,9 @@ header {}
 	margin-top: -2px;
 	z-index: -1;
 }
+.Menu__list li h2.noLine:before {
+	display: none;
+}
 .Menu__list li + li {
 	margin-top: 10px;
 }
