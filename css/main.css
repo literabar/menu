@@ -18,7 +18,8 @@ header {}
 	text-align: center;
 }
 .Logo__img {
-	max-width: 100%;
+	width: 530px;
+	max-width: 34%;
 }
 .Menu__nav {}
 .Menu__content {
